@@ -1,0 +1,19 @@
+img{
+  width: 280px;
+  height: 280px;
+  border: none;
+  border-radius: 10px;  
+  margin-top: 50px;
+}
+.box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+form{
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  border-radius: 15px;
+}
+.box1{
+  padding: 15px;
+}
